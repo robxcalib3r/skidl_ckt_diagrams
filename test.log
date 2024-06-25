@@ -1,0 +1,2 @@
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [E:\Robins Codespace\skidl_ckt_diagrams\<frozen importlib._bootstrap_external>:940=>E:\Robins Codespace\skidl_ckt_diagrams\<frozen importlib._bootstrap>:241]
+WARNING: Could not load KiCad schematic library "Device", falling back to backup library. @ [E:\Robins Codespace\skidl_ckt_diagrams\test.py:7]
